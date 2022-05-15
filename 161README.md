@@ -8,4 +8,4 @@ jhuijr/jhuijr is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-My past half life doesn't give me a fantastic memory
+My past half life doesn't give me a fantastic memory, so maybe I will be harder.
