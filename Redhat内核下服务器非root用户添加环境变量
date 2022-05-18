@@ -1,0 +1,32 @@
+#查看环境变量
+>
+ echo $PATH
+
+#查看路径
+>
+ ls /share/software/hmmsearch*
+
+#添加
+>
+ cd ~
+ vim .bash_profile
+
+   # .bash_profile
+
+   # Get the aliases and functions
+   if [ -f ~/.bashrc ]; then
+           . ~/.bashrc
+   fi
+
+   # User specific environment and startup programs
+
+   PATH=$PATH:$HOME/.local/bin:$HOME/bin
+
+   #export PATH
+   PATH=$PATH:$root/usrdata/software/hmmer-3.3.2/src:$root/share/software/seqtk:$root/share/software/Trimmomatic-0.39/:$root/usrdata/users/jhzhang/src/trimal/source:$root/usrdata/users/jhzhang/src/TMHMM/tmhmm-2.0c/bin/tmhmm
+
+ :wq
+ source .bash_profile
+
+#确认
+>echo $PATH
