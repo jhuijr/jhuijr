@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhuijr
-- 👀 I’m interested in soccer, PC and some other things
+- 👀 I’m interested in soccer, PC and some other interesting things
 - 🌱 I’m currently learning Biology and Bioinfomatics
 - 📫 If anyone want to reach me, just send to jhuizhang.jr@gmail.com
 
